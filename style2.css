@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:rgb(67, 123, 172);
+}
+
+#p1{
+    color:tomato;
+}
+#p2{
+    color: #59ff5f;
+}
+#p3{
+    color:hsl(284,100%,64%);
+}
