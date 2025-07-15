@@ -1,0 +1,18 @@
+@font-face{
+    src:url(fonts/Manufacturing-Consent.ttf);
+    font-family: Manufacturing Consent;
+}
+@font-face{
+    src: url(fonts/My-Soul.ttf);
+    font-family:My Soul;
+}
+
+h1{
+    font-family: My Soul,verdana, arial;
+}
+p{
+    font-family:Manufacturing Consent,"lucida console","courier new";
+    font-size: 1.3em;
+    font-weight: bold;
+    font-style: italic;
+}
