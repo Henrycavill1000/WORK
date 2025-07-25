@@ -1,0 +1,17 @@
+div{
+    border: 2px solid;
+    height: 75px;
+    overflow: auto;
+}
+
+/* overflow: visible = you can see (default) the test overflow out of the box.
+
+   overflow: hidden = any content that will overflow will be hidden
+            , however we can still interact with it (copy&paste). 
+
+   overflow: clip = it is very similar to hidden but ,
+            it's used to overflow the margin and the rest is hidden.
+
+   overflow: scroll = you can scroll the content either horizantal or vertical.
+   overflow: auto = it sets the behaviour for a parent element when the content 
+            doesnt fit,you can set this property be visible, hidden, clip, scroll.                 */
