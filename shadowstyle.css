@@ -1,0 +1,17 @@
+/* Text Shadow */
+h1{
+    text-shadow: 3px 3px 5px hsl(0, 71%, 56%),-3px -3px 5px hsl(174, 85%, 58%);
+}
+/* Box Shadow  */
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color:aliceblue;
+    box-shadow: 3px 3px 5px;
+}
+
+    /* 
+    you can add second shadow seperated by coma
+    shadow syntax: 
+    text-shadow: horizantal shadow,vertical shadow,fade;
+
